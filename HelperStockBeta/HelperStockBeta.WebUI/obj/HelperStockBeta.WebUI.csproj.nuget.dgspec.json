@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.WebUI\\HelperStockBeta.WebUI.csproj": {}
+    "C:\\repositories\\projetoBase\\HelperStockBeta\\HelperStockBeta.WebUI\\HelperStockBeta.WebUI.csproj": {}
   },
   "projects": {
-    "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Application\\HelperStockBeta.Application.csproj": {
+    "C:\\repositories\\projetoBase\\HelperStockBeta\\HelperStockBeta.Application\\HelperStockBeta.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Application\\HelperStockBeta.Application.csproj",
+        "projectUniqueName": "C:\\repositories\\projetoBase\\HelperStockBeta\\HelperStockBeta.Application\\HelperStockBeta.Application.csproj",
         "projectName": "HelperStockBeta.Application",
-        "projectPath": "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Application\\HelperStockBeta.Application.csproj",
-        "packagesPath": "C:\\Users\\victor.icoma\\.nuget\\packages\\",
-        "outputPath": "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Application\\obj\\",
+        "projectPath": "C:\\repositories\\projetoBase\\HelperStockBeta\\HelperStockBeta.Application\\HelperStockBeta.Application.csproj",
+        "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
+        "outputPath": "C:\\repositories\\projetoBase\\HelperStockBeta\\HelperStockBeta.Application\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\victor.icoma\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,15 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj": {
-                "projectPath": "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj"
+              "C:\\repositories\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj": {
+                "projectPath": "C:\\repositories\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj"
               }
             }
           }
@@ -74,25 +69,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj": {
+    "C:\\repositories\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj",
+        "projectUniqueName": "C:\\repositories\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj",
         "projectName": "HelperStockBeta.Domain",
-        "projectPath": "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj",
-        "packagesPath": "C:\\Users\\victor.icoma\\.nuget\\packages\\",
-        "outputPath": "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\obj\\",
+        "projectPath": "C:\\repositories\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj",
+        "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
+        "outputPath": "C:\\repositories\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\victor.icoma\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -100,7 +91,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -134,25 +124,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Infra.Data\\HelperStockBeta.Infra.Data.csproj": {
+    "C:\\repositories\\projetoBase\\HelperStockBeta\\HelperStockBeta.Infra.Data\\HelperStockBeta.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Infra.Data\\HelperStockBeta.Infra.Data.csproj",
+        "projectUniqueName": "C:\\repositories\\projetoBase\\HelperStockBeta\\HelperStockBeta.Infra.Data\\HelperStockBeta.Infra.Data.csproj",
         "projectName": "HelperStockBeta.Infra.Data",
-        "projectPath": "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Infra.Data\\HelperStockBeta.Infra.Data.csproj",
-        "packagesPath": "C:\\Users\\victor.icoma\\.nuget\\packages\\",
-        "outputPath": "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Infra.Data\\obj\\",
+        "projectPath": "C:\\repositories\\projetoBase\\HelperStockBeta\\HelperStockBeta.Infra.Data\\HelperStockBeta.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
+        "outputPath": "C:\\repositories\\projetoBase\\HelperStockBeta\\HelperStockBeta.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\victor.icoma\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -160,15 +146,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj": {
-                "projectPath": "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj"
+              "C:\\repositories\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj": {
+                "projectPath": "C:\\repositories\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj"
               }
             }
           }
@@ -220,25 +205,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Infra.IoC\\HelperStockBeta.Infra.IoC.csproj": {
+    "C:\\repositories\\projetoBase\\HelperStockBeta\\HelperStockBeta.Infra.IoC\\HelperStockBeta.Infra.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Infra.IoC\\HelperStockBeta.Infra.IoC.csproj",
+        "projectUniqueName": "C:\\repositories\\projetoBase\\HelperStockBeta\\HelperStockBeta.Infra.IoC\\HelperStockBeta.Infra.IoC.csproj",
         "projectName": "HelperStockBeta.Infra.IoC",
-        "projectPath": "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Infra.IoC\\HelperStockBeta.Infra.IoC.csproj",
-        "packagesPath": "C:\\Users\\victor.icoma\\.nuget\\packages\\",
-        "outputPath": "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Infra.IoC\\obj\\",
+        "projectPath": "C:\\repositories\\projetoBase\\HelperStockBeta\\HelperStockBeta.Infra.IoC\\HelperStockBeta.Infra.IoC.csproj",
+        "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
+        "outputPath": "C:\\repositories\\projetoBase\\HelperStockBeta\\HelperStockBeta.Infra.IoC\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\victor.icoma\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -246,21 +227,20 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Application\\HelperStockBeta.Application.csproj": {
-                "projectPath": "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Application\\HelperStockBeta.Application.csproj"
+              "C:\\repositories\\projetoBase\\HelperStockBeta\\HelperStockBeta.Application\\HelperStockBeta.Application.csproj": {
+                "projectPath": "C:\\repositories\\projetoBase\\HelperStockBeta\\HelperStockBeta.Application\\HelperStockBeta.Application.csproj"
               },
-              "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj": {
-                "projectPath": "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj"
+              "C:\\repositories\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj": {
+                "projectPath": "C:\\repositories\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj"
               },
-              "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Infra.Data\\HelperStockBeta.Infra.Data.csproj": {
-                "projectPath": "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Infra.Data\\HelperStockBeta.Infra.Data.csproj"
+              "C:\\repositories\\projetoBase\\HelperStockBeta\\HelperStockBeta.Infra.Data\\HelperStockBeta.Infra.Data.csproj": {
+                "projectPath": "C:\\repositories\\projetoBase\\HelperStockBeta\\HelperStockBeta.Infra.Data\\HelperStockBeta.Infra.Data.csproj"
               }
             }
           }
@@ -308,25 +288,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.WebUI\\HelperStockBeta.WebUI.csproj": {
+    "C:\\repositories\\projetoBase\\HelperStockBeta\\HelperStockBeta.WebUI\\HelperStockBeta.WebUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.WebUI\\HelperStockBeta.WebUI.csproj",
+        "projectUniqueName": "C:\\repositories\\projetoBase\\HelperStockBeta\\HelperStockBeta.WebUI\\HelperStockBeta.WebUI.csproj",
         "projectName": "HelperStockBeta.WebUI",
-        "projectPath": "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.WebUI\\HelperStockBeta.WebUI.csproj",
-        "packagesPath": "C:\\Users\\victor.icoma\\.nuget\\packages\\",
-        "outputPath": "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.WebUI\\obj\\",
+        "projectPath": "C:\\repositories\\projetoBase\\HelperStockBeta\\HelperStockBeta.WebUI\\HelperStockBeta.WebUI.csproj",
+        "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
+        "outputPath": "C:\\repositories\\projetoBase\\HelperStockBeta\\HelperStockBeta.WebUI\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\victor.icoma\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -334,15 +310,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Infra.IoC\\HelperStockBeta.Infra.IoC.csproj": {
-                "projectPath": "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Infra.IoC\\HelperStockBeta.Infra.IoC.csproj"
+              "C:\\repositories\\projetoBase\\HelperStockBeta\\HelperStockBeta.Infra.IoC\\HelperStockBeta.Infra.IoC.csproj": {
+                "projectPath": "C:\\repositories\\projetoBase\\HelperStockBeta\\HelperStockBeta.Infra.IoC\\HelperStockBeta.Infra.IoC.csproj"
               }
             }
           }
@@ -381,7 +356,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
