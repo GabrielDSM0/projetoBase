@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\HelperStockBeta",
+    "\\HelperStockBeta\\HelperStockBeta.API",
+    "\\HelperStockBeta\\HelperStockBeta.API\\Controllers"
   ],
+  "SelectedNode": "\\HelperStockBeta\\HelperStockBeta.API\\HelperStockBeta.API.csproj.user",
   "PreviewInSolutionExplorer": false
 }
